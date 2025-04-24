@@ -1,3 +1,9 @@
+## Update 1.0
+
+1. Add a safety lock to address thread issues.
+2. Handle the queue optimization problem.
+3. Deal with connection issues.
+
 <p align='center'>
     <img src='./logo.png' width='200px' height='80px'/>
 </p>

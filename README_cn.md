@@ -1,3 +1,9 @@
+## 1.0更新
+
+1. 针对线程问题增加安全锁
+2. 针对队列优化问题进行处理
+3. 对连接问题进行处理。
+
 <p align='center'>
     <img src='./logo.png' width='200px' height='80px'/>
 </p>
